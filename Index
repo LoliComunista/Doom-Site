@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Site sobre Doom Eternal</title>
+</head>
+
+<body>
+    <header id="cabecalho">
+        <img src="./img/slayer-mark.png" alt="Marca do Slayer" width="99px">
+        <img src="./img/doom-eternal-logo.png" alt="Doom Eternal" width="250" height="150">
+        <nav>
+            <ul>
+                <li><a href="#historia">História</a></li>
+                <li><a href="#personagens">Personagens</a></li>
+                <li><a href="#armas">Armas</a></li>
+                <li><a href="#inimigos">Inimigos</a></li>
+                <li><a href="#chefes">Bosses</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="historia">
+            <h2>História</h2>
+            <p>
+                Em 2163, catorze anos após os eventos em Marte, a,[c]A Terra foi invadida por demônios, destruindo 60%
+                da
+                população do planeta. A Union Aerospace Corporation (UAC) foi totalmente corrompida em um culto
+                demoníaco. O que resta da humanidade ou fugiu da Terra ou se juntou ao movimento de resistência da
+                Coalizão de Resposta Blindada (ARC). The Doom Slayer, tendo sido anteriormente traído pelo Dr. Samuel
+                Hayden, retorna com uma fortaleza satélite controlada pela AI VEGA para acabar com a invasão demoníaca
+                matando os Hell Priests: Deags Nilox, Ranak e Grav. Os sacerdotes servem a um ser angelical conhecido
+                como Khan Maykr, que procura sacrificar a humanidade pela sobrevivência de sua própria raça. O Slayer se
+                teletransporta para a Terra e mata Deag Nilox, mas o Khan Maykr transporta os dois sacerdotes restantes
+                para locais desconhecidos.
+                <br>
+                O Slayer recupera um localizador celestial do mundo Sentinela de Exultia, e então viaja para o Inferno
+                para adquirir uma fonte de energia do Sentinela exilado, o Traidor. O Traidor também lhe dá uma adaga
+                para esfaquear o coração de seu filho, cujo corpo foi transformado no demônio apocalíptico, o Ícone do
+                Pecado. O Caçador encontra e mata Deag Ranak em sua cidadela no Ártico. Em resposta, o Khan Maykr move
+                Deag Grav novamente e acelera a invasão da Terra. Sem pistas sobre o último Hell Priest, VEGA sugere
+                encontrar o Dr. Hayden, quem sabe a localização dele. Em um composto ARC, o Slayer recupera chassis robô
+                danificado de Hayden e o Crisol demoníaco.
+                <br>
+                Ao carregar a mente de Hayden na fortaleza, ele revela que Deag Grav está escondido em Sentinel Prime; a
+                única maneira de chegar lá é um portal localizado na cidade perdida de Hebeth, em Marte' núcleo. O
+                Caçador viaja para a Lua Marciana Fobos, onde ele usa o BFG 10000 para disparar um buraco na superfície
+                de Marte para chegar a Hebeth. Depois de alcançar Sentinel Prime, flashbacks revelam que o Slayer é o
+                original Doomguy. Encontrado gravemente ferido por Sentinelas algum tempo depois Destino 64, Doomguy foi
+                levado perante os Deags e forçado a lutar em uma arena de gladiadores. Impressionado com a crueldade de
+                Doomguy na batalha, os Deags o introduziram nos Sentinelas.
+                <br>
+                No presente, o Slayer encontra e mata Deag Grav na arena. O Khan Maykr revela ao Slayer seu plano para
+                ressuscitar o Ícone do Pecado para consumir a humanidade. O Slayer viaja para o mundo natal Sentinela de
+                Argent D'Nur para seu próprio Crisol. Outros flashbacks revelam que durante a batalha de Argent D'Nur,
+                um Maykr desonesto chamou os Seraphim imbuídos de Doomguy com habilidades sobre-humanas, colocando-o na
+                Máquina da Divindade, transformando-o no Caçador de Destinos. É revelado que o Khan Maykr fez um pacto
+                com o Inferno para produzir energia Argent, que é criada através do sacrifício em massa de almas
+                humanas. Em troca de fornecer mundos para o Inferno invadir, os Maykrs recebem uma parte da energia
+                Argent produzida pelo Inferno, o que permite que sua própria dimensão, Urdak, sobreviva.
+                <br>
+                O Slayer entra em Urdak através da cidadela do Inferno, Nekravol, e interrompe a cerimônia de despertar
+                do Ícone usando a adaga do Traidor para destruir seu coração. Livre do controle de Maykr, o Ícone do
+                Pecado desperta e se teletransporta para a Terra. Com a barreira dimensional destruída, os demônios
+                quebram sua aliança com os Maykrs e invadem Urdak. O Slayer mata o Khan Maykr antes de retornar à Terra
+                para confrontar o Ícone do Pecado, embora VEGA seja deixado para trás para garantir que o portal
+                permaneça aberto e, ao fazê-lo, o portal permanece aberto, aprende que ele é a mente do Pai, o criador
+                da raça Maykr. O Caçador mata o Ícone do Pecado em batalha, terminando a invasão do Inferno na Terra.
+            </p>
+        </section>
+
+        <section id="personagens">
+            <h2>Personagens</h2>
+            <img src="./img/doomslayer.png" alt="Doom Guy" width="100px">
+            <p>A</p>
+            <br>
+            <img src="./img/SamuelHayden.png" alt="Doutor Samuel Hayden" width="100px">
+            <p>B</p>
+            <br>
+            <img src="./img/vega.jpg" alt="Vega" width="100">
+            <p>C</p>
+        </section>
+        <section id="armas">
+            <h2>Armas</h2>
+            <h4> Combat Shotgun</h4>
+            <img src="./img/pumpshotgun-doom.png" alt="Shotgun" width="200">
+            <br>
+            <h4>Motoserra</h4>
+            <img src="./img/chainsaw.png" alt="Motosserra" width="200">
+            <br>
+            <h4>Super Shotgun</h4>
+            <img src="./img/supershotgun.png" alt="Super Shotgun" width="200">
+            <br>
+            <h4>Ballista</h4>
+            <img src="./img/Ballista.png" alt="Ballista" width="200">
+            <br>
+            <h4>Crucible</h4>
+            <img src="./img/Crudible.png" alt="Crubile" width="99">
+            <br>
+            <h4>Chaingun</h4>
+            <img src="./img/Chaingun.png" alt="ChainGun" width="200">
+            <br>
+            <h4>Heavy Cannon</h4>
+            <img src="./img/heavycannon.png" alt="Heavy Cannon" width="200">
+            <br>
+            <h4>Plasma Rifle</h4>
+            <img src="./img/plasmaRifle.png" alt="Plasma Rifle" width="200">
+            <br>
+            <h4>BFG-9000</h4>
+            <img src="./img/BGF.png" alt="BFG 9000" width="200">
+            <br>
+            <h4>Rocket Launcher</h4>
+            <img src="./img/RocketLauncher.png" alt="Rocket Laucher" width="200">
+            <br>
+            <h4>Unmaykr</h4>
+            <img src="./img/unmaykr.png" alt="Unmaykr" width="200">
+            <br>
+            <h4>Dooomblade</h4>
+            <img src="./img/doomblad.jpg" alt="Doomblade" width="150">
+            <br>
+            <h4>Equipment Launcher</h4>
+            <img src="./img/equipmentlauncher.jpg" alt="equipment Launcher" width="200">
+        </section>
+
+        <section id="Inimigos">
+            <h2>Inimigos</h2>
+            
+        </section>
+    </main>
+
+    <footer></footer>
+
+</body>
+
+</html>
